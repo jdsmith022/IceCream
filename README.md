@@ -2,6 +2,8 @@
 
 ## Printing exerciese written in C
 
+![Demo of IceCream](https://github.com/jdsmith022/IceCream/blob/master/images/IceCream.gif)
+
 ### Description
 IceCream prints the numbers 0 - 100. If a number is a multiple of 3, the word Ice is printed instead of the number.
 If a number is a multiple of 5, the word Cream is printed instead of the number.
