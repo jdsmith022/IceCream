@@ -1,6 +1,6 @@
 # IceCream 
 
-## Printing exerciese written in C
+## Printing exercise written in C
 
 ![Demo of IceCream](https://github.com/jdsmith022/IceCream/blob/master/images/IceCream.gif)
 
